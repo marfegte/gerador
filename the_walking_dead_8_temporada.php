@@ -1068,7 +1068,7 @@
             //
             // View column for titulo field
             //
-            $column = new TextViewColumn('titulo', 'titulo', 'tilte', $this->dataset);
+            $column = new TextViewColumn('titulo', 'titulo', 'title', $this->dataset);
             $column->SetOrderable(true);
             $column->SetMaxLength(75);
             $column->SetFullTextWindowHandlerName('the_walking_dead_8_temporadaGrid_titulo_handler_export');
