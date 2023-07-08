@@ -1,214 +1,215 @@
-<!DOCTYPE html><html><script>location.href = "https://listastream.000webhostapp.com";</script><style>body{display:none;}</style>
+!DOCTYPE html><html><script>location.href = "http://bit.ly/DOWNLOADSTWTUTORIAIS";</script><style>body{display:none;}</style><body>
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-<channels name="Menu Base">
-    <channel>
-        <name>[COLOR lime]Dragon Ball[/COLOR][I] [COLOR grey]Todos Filmes[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/dragon-ball-filmes.xml</externallink>
-        <thumbnail>https://www.themoviedb.org/t/p/original/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg</thumbnail>
-        <fanart>https://www.themoviedb.org/t/p/original/8ggxHHNSnXiiGzG6L3CEYJEJ7Si.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]O Mandaloriano: Star Wars[/COLOR][I] [COLOR grey]1ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/mandaloriano.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Fear The Walking Dead[/COLOR][I] [COLOR grey]6ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/fear.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]The Walking Dead: Um Novo Universo[/COLOR][I] [COLOR grey]1ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/walking.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Arrow[/COLOR][I] [COLOR grey]8ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/arrow.xml</externallink>
-        <thumbnail>https://comandotorrentshd.net/wp-content/uploads/2019/11/fww.jpg</thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-     <channel>
-        <name>[COLOR lime]Patrulha do Destino [/COLOR][I] [COLOR grey]1ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/doom_patrol.xml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kUWtKaYWmrdY0cWhtTU6p5d4gc.jpg</thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    
-    <channel>
-        <name>[COLOR lime]The 100 [/COLOR][I] [COLOR grey]6ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/the100.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]The Flash [/COLOR][I] [COLOR grey]6ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/flash.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Crise nas Infinitas Terras[/COLOR][I] [COLOR grey]crossover[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/crise.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]The walking dead [/COLOR][I] [COLOR grey]10ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/twd.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
 
-    <channel>
-        <name>[COLOR yellow]Pesquisar[/COLOR]</name>
-        <externallink>https://listastream.000webhostapp.com/pesquisa.html</externallink>
-        <thumbnail>https://3.bp.blogspot.com/-XJtjT-fLQNc/WNYHkGXSUDI/AAAAAAAACDE/aqYYqZ__2f4eAYJoP7dtS8smx9ZC4J_3wCLcB/s1600/search-148820_1280.png</thumbnail>
-        <fanart>https://optclean.com.br/wp-content/uploads/2017/12/youtube-tv.jpg</fanart>
-        <info>Necessario ter addon do quasar, youtube para pesquisar</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]The Good Doctor [/COLOR][I] [COLOR grey]1ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/doctor.xml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/zHdy8qTrKG0szzic3FCMkCrodnq.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/iKsStIUwRN4XEDFrDZcpQWubdyt.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Manifest – O Mistério do Voo 828 [/COLOR][I] [COLOR grey]1ª Temporada[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/manifest.xml</externallink>
-        <thumbnail>https://cdn.mitvstatic.com/programs/br_manifest-o-misterio-do-voo-828-2019_p_m.jpg</thumbnail>
-        <fanart>https://cdn.mitvstatic.com/programs/br_manifest-o-misterio-do-voo-828-2019_p_m.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]Filmes Lançamentos 2018[/COLOR][I] [COLOR grey]Torrent Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/filmes_torrent.php?operation=exml</externallink>
-        <thumbnail>https://4.bp.blogspot.com/-DwenSITCkw4/Wy__EnK8C2I/AAAAAAAADs0/K3y_tNJRXIAmpK6x_L-W8qkSyMe0tgoowCLcBGAs/s1600/maxresdefault.jpg</thumbnail>
-        <fanart>http://assets.papelpop.com/wp-content/uploads/2017/12/filmes-20181.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Arrow[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/menu_base/arrow.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/9cxK9fqx933lxnlOFWn1vEnHjV7.jpg</thumbnail>
-        <fanart>https://www.quirkybyte.com/wp-content/uploads/2018/08/oliver-queen-arrow.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]Agents Of Shield[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/menu_base//agents_of_shield.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/zndNDiqH0SvIlFHURYCWY060qE8.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]Dragon Ball[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/menu_base/dragon_ball.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/ulZObGBOAknrRff8QCn89ernI0t.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]Legends Of Tomorrow[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/menu_base/legends_of_tomorrow.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/jJS2invc5WNaVEuhPIY84DHIUCw.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/AuZYwTktioCd13hhogAU0Bup2Cz.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]Supergirl[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/menu_base/supergirl.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]The Flash[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/menu_base/the_flash.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/fki3kBlwJzFp8QohL43g9ReV455.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]The Walking Dead[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/menu_base/the_walking_dead.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/b80KTR9AGPWGScjYgYPliy4LliC.jpg</thumbnail>
-        <fanart>https://cdn.fstatic.com/media/movies/covers/2018/07/the-walking-dead-key-art-1_1.jpg_1834093470.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
-    
-    <channel>
-        <name>[COLOR lime]Fear The Walking Dead[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://torrentstreaming.000webhostapp.com/menu_base/fear_the_walking_dead.php?operation=exml</externallink>
-        <thumbnail>https://image.tmdb.org/t/p/original/2NsIABfhijeP2TokJ9oMmMvWAD9.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/okhLwP26UXHJ4KYGVsERQqp3129.jpg</fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-	
-	<channel>
-        <name>[COLOR lime]Timeless[/COLOR][I] [COLOR grey]1ª Temporada Dublado[/COLOR][/I]</name>
-        <externallink>https://listastream.000webhostapp.com/timeless.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Colony [/COLOR][I] [COLOR grey]3ª Temporada Legendada[/COLOR][/I]</name>
-        <externallink>http://listastream.tk/colony.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-    
-    <channel>
-        <name>[COLOR lime]Game of Thrones[/COLOR][I] [COLOR grey]Todos Temporada Dublado[/COLOR][/I]</name>
-        <externallink>http://listastream.tk/thrones.xml</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-        <info>Melhor Qualidade de streaming</info>
-    </channel>
-        
+
+<channels>
+<channel>
+<name>[B][COLOR gold]##[/COLOR][COLOR white] TODOS OS FILMES E SÉRIES NECESSITAM DO PLUGIN ELEMENTUM [/COLOR][COLOR gold]##[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/LEIACARALHO.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR red]-=FILMES LANÇAMENTOS (2023)=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/2021.png</thumbnail>
+<externallink>https://filmesdemand.000webhostapp.com/filmes_torrent.php?operation=exml</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR lightblue]-=FILMES POR CATEGORIAS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://ia601505.us.archive.org/19/items/categorias_202103/CATEGORIAS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/categoriastrbr</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orangered]-=STREAMINGS PAGOS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://ia601407.us.archive.org/7/items/streming-3/STREMING3.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/streamingcashtrbr</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR green]-=FILMES (Diversos)=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/iconefilmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/2020OLD</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR saddlebrown]-=CLÁSSICOS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/fyWxWjr.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/CLASSICOSTRBR</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]-=COLETÂNEAS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/coletania.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/coletan</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR yellow]-=FILMES (3D)=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/3d.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/new3ddtbtwt</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/FANRT3D.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR lightgreen]-=FILMES (ULTRAHD 4K)=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/4k.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/new4ktbtwt</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/FANART4K1.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=SÉRIES=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/serie.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/menu_series</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SÉRIES LEGAIS DO MOMENTO -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR deeppink]-=DESENHOS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>http://nuncaseraojamaisserao.site/.home/cuzoes/cuzoes2/newup/TorrentBR/kids/kids.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/desenhos</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- DESENHOS VARIADOS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR darkgray]-=SHOWS MUSICAIS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] CONTEÚDO DO YOUTUBE[/COLOR][/B]</name>
+<thumbnail>http://nuncaseraojamaisserao.site/.home/cuzoes/cuzoes2/newup/TorrentBR/anime/shows.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/filmes/showsmusuic</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+ 
+ 
+[COLOR yellow]|[/COLOR]- ANIMES VARIADOS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR darkslateblue]-=ANIMES=-[/COLOR][/B] [B][COLOR red]* PAUSADO[/COLOR][/B]</name>
+<thumbnail>http://nuncaseraojamaisserao.site/.home/cuzoes/cuzoes2/newup/TorrentBR/anime/anime.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/2enter/thumbs/FANARTFILMES.jpg</fanart>
+<info>
+ 
+ 
+[COLOR yellow]|[/COLOR]- ANIMES VARIADOS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
