@@ -5,7 +5,7 @@
      <channels name="Menu Base">
 <channel>
         <name>[COLOR yellow]Pesquisar[/COLOR]</name>
-        <externallink>https://listastream.000webhostapp.com/pesquisa.html</externallink>
+        <externallink>https://filmesdemand.000webhostapp.com/base/pesquisa.html</externallink>
         <thumbnail>https://3.bp.blogspot.com/-XJtjT-fLQNc/WNYHkGXSUDI/AAAAAAAACDE/aqYYqZ__2f4eAYJoP7dtS8smx9ZC4J_3wCLcB/s1600/search-148820_1280.png</thumbnail>
         <fanart>https://optclean.com.br/wp-content/uploads/2017/12/youtube-tv.jpg</fanart>
         <info>Necessario ter addon do quasar, youtube para pesquisar</info>
