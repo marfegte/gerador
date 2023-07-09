@@ -14,6 +14,16 @@
 
    <channels>
 <channel>
+        <name>[COLOR lime]Outlander [/COLOR][I] [COLOR grey]7ª Temporada[/COLOR][/I]</name>
+        <externallink>https://filmesdemand.000webhostapp.com/base/lander.xml</externallink>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+        <info>Melhor Qualidade de streaming</info>
+    </channel>
+</channels>
+
+   <channels>
+<channel>
         <name>[COLOR lime]Dragon Ball[/COLOR][I] [COLOR grey]Todos Filmes[/COLOR][/I]</name>
         <externallink>https://listastream.000webhostapp.com/dragon-ball-filmes.xml</externallink>
         <thumbnail>https://www.themoviedb.org/t/p/original/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg</thumbnail>
