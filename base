@@ -22,6 +22,26 @@
     </channel>
 </channels>
 
+    <channels>
+<channel>
+        <name>[COLOR lime]La Brea: A Terra Perdida 2ª Temporada [/COLOR][I] [COLOR grey]2ª Temporada[/COLOR][/I]</name>
+        <externallink>https://filmesdemand.000webhostapp.com/base/la_brea.xml</externallink>
+        <thumbnail>https://nickfilmes.net/wp-content/uploads/2023/02/La-Brea-A-Terra-Perdida-2a-Temporada.jpg</thumbnail>
+        <fanart></fanart>
+        <info>Melhor Qualidade de streaming</info>
+    </channel>
+</channels>
+
+  <channels>
+<channel>
+        <name>[COLOR lime]Fundação [/COLOR][I] [COLOR grey]2ª Temporada[/COLOR][/I]</name>
+        <externallink>https://filmesdemand.000webhostapp.com/base/fundacao.xml</externallink>
+        <thumbnail>https://nickfilmes.net/wp-content/uploads/2023/07/Fundacao-2a-Temporada-Torrent.jpg</thumbnail>
+        <fanart></fanart>
+        <info>Melhor Qualidade de streaming</info>
+    </channel>
+</channels>
+
    <channels>
 <channel>
         <name>[COLOR lime]Dragon Ball[/COLOR][I] [COLOR grey]Todos Filmes[/COLOR][/I]</name>
